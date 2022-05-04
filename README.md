@@ -10,7 +10,7 @@ I'm detail-oriented Front-end web developer/web designer.
  -->
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently advancing my knowledge on vue.js
-- 
+
 - 👯 I’m looking to collaborate on projects with talented developers that will help in making life easier for humanity. 
 <!-- - 🤔 I’m looking for help with ... -->
 
