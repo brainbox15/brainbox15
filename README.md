@@ -22,3 +22,5 @@ I have had experience working with Java and used it in developing Android apps. 
 
 - ⚡ Fun fact: I love to dance. play football and basketball
 
+![Example screenshot](images/code.gif)
+
