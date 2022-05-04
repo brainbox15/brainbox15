@@ -1,9 +1,12 @@
+# Hi there 👋
+ # I’m Michael Omoraka . Nice to meet you.
+
+
 ![Example screenshot](images/code.gif)
 
-### Hi there 👋
 
- I’m Michael Omoraka . Nice to meet you.
-I'm detail-oriented Front-end web developer/designer. 
+
+## I'm detail-oriented Front-end web developer/designer. 
 
 I have had experience working with Java and used it in developing Android apps. Later transitioned to web development and currently working with Vue.js
 
