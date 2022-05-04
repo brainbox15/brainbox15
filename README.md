@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  I’m Michael Omoraka . Nice to meet you.
-I'm detail-oriented Front-end web developer/web designer.
+I'm detail-oriented Front-end web developer/designer.
 
 - 🔭 You can check out my portfolio [_here_](https://michaelomoraka.netlify.app). 
 <!-- **brainbox15/brainbox15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
